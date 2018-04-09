@@ -1,3 +1,3 @@
 # springboot-example
 
-基于2.x示例
+基于2.x版本
